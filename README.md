@@ -54,5 +54,4 @@ Communication is achieved via **ESP-NOW**, enabling peer-to-peer messaging betwe
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/carmunicate.git
-   cd carmunicate/simulation
+   git clone https://github.com/KumarCySec/Hacktronix
